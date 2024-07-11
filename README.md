@@ -14,8 +14,8 @@ This project is a Node.js REST API built with Express and TypeScript. It include
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd my-app
+   git clone https://github.com/Ahmedkarm310501/yay-task.git
+   cd yay-task
    ```
 
 2. **Install dependencies:**
